@@ -15,5 +15,5 @@ def discriminant(a,b,c):
 
     return x1, x2 
 
-print(discriminant(2, 15, 5))
+print(discriminant(1, 5, 3))
  
